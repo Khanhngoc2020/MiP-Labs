@@ -2,7 +2,7 @@
 **/.DS_Store
 
 # Local software installer; exceeds GitHub's 100 MB file limit.
-/ЛР_1/UltiMaker-Cura-5.6.0-win64-X64.exe
+/Lab-1/UltiMaker-Cura-5.6.0-win64-X64.exe
 
 # Blender automatic backup files.
 *.blend1
